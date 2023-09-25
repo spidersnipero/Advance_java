@@ -1,0 +1,6 @@
+task manager application using model-view-controller (mvc) in java.
+fuctions:
+create tasks 
+assign priorities 
+mark tasks as complete /
+finally view their task list
